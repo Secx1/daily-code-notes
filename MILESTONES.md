@@ -1,1 +1,2 @@
 - 2025-10-01: dated coding note 1.
+- 2025-10-02: dated coding note 2.
