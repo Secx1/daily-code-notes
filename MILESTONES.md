@@ -9,3 +9,4 @@
 - 2025-10-10: dated coding note 9.
 - 2025-10-12: dated coding note 10.
 - 2025-10-13: dated coding note 11.
+- 2025-10-15: dated coding note 12.
