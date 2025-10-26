@@ -16,3 +16,4 @@
 - 2025-10-21: dated coding note 16.
 - 2025-10-24: dated coding note 17.
 - 2025-10-25: dated coding note 18.
+- 2025-10-26: dated coding note 19.
