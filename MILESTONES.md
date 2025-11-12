@@ -31,3 +31,4 @@
 - 2025-11-09: dated coding note 31.
 - 2025-11-10: dated coding note 32.
 - 2025-11-11: dated coding note 33.
+- 2025-11-12: dated coding note 34.
