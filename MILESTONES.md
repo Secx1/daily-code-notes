@@ -39,3 +39,4 @@
 - 2025-11-18: dated coding note 39.
 - 2025-11-19: dated coding note 40.
 - 2025-11-21: dated coding note 41.
+- 2025-11-22: dated coding note 42.
