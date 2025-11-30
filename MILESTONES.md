@@ -45,3 +45,4 @@
 - 2025-11-26: dated coding note 45.
 - 2025-11-27: dated coding note 46.
 - 2025-11-28: dated coding note 47.
+- 2025-11-30: dated coding note 48.
