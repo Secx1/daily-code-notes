@@ -48,3 +48,4 @@
 - 2025-11-30: dated coding note 48.
 - 2025-12-01: dated coding note 49.
 - 2025-12-02: dated coding note 50.
+- 2025-12-04: dated coding note 51.
