@@ -55,3 +55,4 @@
 - 2025-12-10: dated coding note 55.
 - 2025-12-13: dated coding note 56.
 - 2025-12-15: dated coding note 57.
+- 2025-12-16: dated coding note 58.
