@@ -68,3 +68,4 @@
 - 2025-12-29: dated coding note 68.
 - 2025-12-30: dated coding note 69.
 - 2025-12-31: dated coding note 70.
+- 2026-01-03: dated coding note 71.
