@@ -73,3 +73,4 @@
 - 2026-01-07: dated coding note 73.
 - 2026-01-08: dated coding note 74.
 - 2026-01-09: dated coding note 75.
+- 2026-01-10: dated coding note 76.
