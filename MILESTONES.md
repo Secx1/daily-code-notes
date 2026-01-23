@@ -81,3 +81,4 @@
 - 2026-01-19: dated coding note 81.
 - 2026-01-21: dated coding note 82.
 - 2026-01-22: dated coding note 83.
+- 2026-01-23: dated coding note 84.
