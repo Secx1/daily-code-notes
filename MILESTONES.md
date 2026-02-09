@@ -93,3 +93,4 @@
 - 2026-02-05: dated coding note 93.
 - 2026-02-06: dated coding note 94.
 - 2026-02-07: dated coding note 95.
+- 2026-02-09: dated coding note 96.
