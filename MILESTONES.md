@@ -104,3 +104,4 @@
 - 2026-02-21: dated coding note 104.
 - 2026-02-25: dated coding note 105.
 - 2026-02-26: dated coding note 106.
+- 2026-02-27: dated coding note 107.
