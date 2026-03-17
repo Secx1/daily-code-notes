@@ -118,3 +118,4 @@
 - 2026-03-14: dated coding note 118.
 - 2026-03-15: dated coding note 119.
 - 2026-03-16: dated coding note 120.
+- 2026-03-17: dated coding note 121.
