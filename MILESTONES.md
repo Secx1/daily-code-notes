@@ -124,3 +124,4 @@
 - 2026-03-22: dated coding note 124.
 - 2026-03-25: dated coding note 125.
 - 2026-03-26: dated coding note 126.
+- 2026-03-30: dated coding note 127.
