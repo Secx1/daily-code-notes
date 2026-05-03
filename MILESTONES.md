@@ -148,3 +148,4 @@
 - 2026-04-27: dated coding note 148.
 - 2026-04-29: dated coding note 149.
 - 2026-04-30: dated coding note 150.
+- 2026-05-03: dated coding note 151.
