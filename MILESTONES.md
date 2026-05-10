@@ -155,3 +155,4 @@
 - 2026-05-07: dated coding note 155.
 - 2026-05-08: dated coding note 156.
 - 2026-05-09: dated coding note 157.
+- 2026-05-10: dated coding note 158.
