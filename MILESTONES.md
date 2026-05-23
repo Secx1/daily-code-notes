@@ -166,3 +166,4 @@
 - 2026-05-19: dated coding note 166.
 - 2026-05-21: dated coding note 167.
 - 2026-05-22: dated coding note 168.
+- 2026-05-23: dated coding note 169.
