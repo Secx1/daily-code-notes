@@ -171,3 +171,4 @@
 - 2026-05-25: dated coding note 171.
 - 2026-05-26: dated coding note 172.
 - 2026-05-27: dated coding note 173.
+- 2026-05-28: dated coding note 174.
