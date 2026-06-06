@@ -179,3 +179,4 @@
 - 2026-06-03: dated coding note 179.
 - 2026-06-04: dated coding note 180.
 - 2026-06-05: dated coding note 181.
+- 2026-06-06: dated coding note 182.
