@@ -216,3 +216,4 @@
 - 2026-07-14: dated coding note 216.
 - 2026-07-16: dated coding note 217.
 - 2026-07-17: dated coding note 218.
+- 2026-07-18: dated coding note 219.
