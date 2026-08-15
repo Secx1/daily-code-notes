@@ -237,3 +237,4 @@
 - 2026-08-12: dated coding note 237.
 - 2026-08-13: dated coding note 238.
 - 2026-08-14: dated coding note 239.
+- 2026-08-15: dated coding note 240.
