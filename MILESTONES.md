@@ -263,3 +263,4 @@
 - 2026-09-15: dated coding note 263.
 - 2026-09-16: dated coding note 264.
 - 2026-09-17: dated coding note 265.
+- 2026-09-18: dated coding note 266.
