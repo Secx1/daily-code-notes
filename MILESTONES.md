@@ -270,3 +270,4 @@
 - 2026-09-24: dated coding note 270.
 - 2026-09-28: dated coding note 271.
 - 2026-09-29: dated coding note 272.
+- 2026-09-30: dated coding note 273.
